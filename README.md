@@ -2,4 +2,5 @@
 
 # Live url Link
 
-fylo-landing-page.sh
+landing-page-fylo.surge.sh
+Live Site URL: [https://landing-page-fylo.surge.sh/]
