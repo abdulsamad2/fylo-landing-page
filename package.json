@@ -1,0 +1,14 @@
+{
+  "name": "fylo-landing-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "start": "tailwindcss -i ./input.css -o ./style.css --watch"
+  },
+  "author": "Abdul Samad",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
